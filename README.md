@@ -22,9 +22,6 @@
 - TypeScript
 - Font Awesome 图标库
 
-## 配置自定义
-
-参见 [Vite 配置参考](https://vitejs.dev/config/)。
 
 ## 项目设置
 
